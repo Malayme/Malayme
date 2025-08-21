@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yann !
+I am a student at EPITA, study computer science, programming and cybersecurity. I am taking courses in C, Linux, and Gitto work on personal projects. 
+---
+## 🔧 Technical Skills
+- Languages: C, Bash, Python...  
+- Others: Gitlab, Github, Network, Linux Administration
 
-<!--
-**Malayme/Malayme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malayme&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Malayme&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Contact Me**  
+[LinkedIn](www.linkedin.com/in/yann-lemaire-suau)
