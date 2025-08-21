@@ -1,4 +1,4 @@
-# Hi, I'm Yann !
+# Hi, I'm Malayme !
 I am a student at EPITA, study computer science, programming and cybersecurity. I am taking courses in C, Linux, and Gitto work on personal projects. 
 ---
 ## 🔧 Technical Skills
