@@ -32,7 +32,7 @@ I am a student at EPITA, study computer science, programming and cybersecurity. 
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="[![trophy](https://github-profile-trophy.vercel.app/?username=Malayme&theme=onedark)](https://github.com/Malayme/github-profile-trophy)" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Malayme&theme=onedark" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
