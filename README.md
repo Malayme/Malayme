@@ -1,9 +1,10 @@
 # Hi, I'm Malayme !
-I am a student at EPITA, study computer science, programming and cybersecurity. I am taking courses in C, Linux, and Gitto work on personal projects. 
+I am a student at EPITA, I study cybersecurity, but I enjoy learning about IT in general. That’s why I’m familiar with many programming languages and open to all kinds of professional opportunities. Feel free to contact me.. 
 ---
 ## 🔧 Technical Skills
-- Languages: C, Bash, Python...  
-- Others: Gitlab, Github, Network, Linux Administration
+- Main Languages: C, Bash/Shell, Python, HTML/JS
+- In Progress: Java, Assembly, C++
+- Others Technologies: Gitlab, Github, Network, Linux Administration, Cloud
 
 ---
 
